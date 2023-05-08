@@ -1,0 +1,10 @@
+['WARN ]2023-04-24 11:26:44,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-This is a warning from before method
+['INFO ]2023-04-24 11:26:44,619(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-This is test case 01 from New Test
+['ERROR]2023-04-24 11:26:44,623(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-I am the error from after method
+['WARN ]2023-04-24 11:29:40,740(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-This is a warning from before method
+['INFO ]2023-04-24 11:29:40,763(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-This is test case 01 from New Test
+['ERROR]2023-04-24 11:29:40,776(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-I am the error from after method
+['WARN ]2023-04-24 11:36:49,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-This is a warning from before method
+['ERROR]2023-04-24 11:36:49,047(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-/ by zero
+['INFO ]2023-04-24 11:36:49,047(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-This is test case 01 from New Test
+['ERROR]2023-04-24 11:36:49,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-I am the error from after method
